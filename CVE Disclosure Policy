@@ -1,0 +1,35 @@
+# IMTF Coordinated Vulnerability Disclosure Policy
+
+IMTF welcomes reports from security researchers, customers, and others who identify potential security vulnerabilities in our products or services. Responsible reporting helps us protect our customers and improve the security of our solutions.
+
+We ask that you **contact IMTF before publicly disclosing a vulnerability**, including publishing technical details, proof-of-concept code, or a related CVE record. This gives us time to investigate the issue, assess its impact, develop fixes or mitigation steps, and prepare a security advisory.
+
+### Reporting a vulnerability
+
+Please report suspected vulnerabilities to **[security contact email or reporting URL]**, including, where available:
+
+- The affected product or service and its version.
+- A description of the vulnerability and its potential impact.
+- Steps to reproduce the issue and any supporting evidence.
+- Any known exploitation or planned disclosure date.
+- Your contact details and whether you would like public acknowledgment.
+
+Please avoid including sensitive personal or customer data. If sensitive information is needed to investigate the issue, contact us first to arrange a secure way to share it.
+
+### Investigation and coordination
+
+After receiving a report, IMTF will work with the reporter to validate the findings, assess the risk, and determine appropriate remediation or mitigation. We will keep the reporter informed of material progress and coordinate a disclosure timeline based on the severity, complexity, and potential impact of the vulnerability.
+
+We ask reporters to keep vulnerability details confidential during this process and agree on a publication date with IMTF. If your disclosure plans change, please notify us so that we can coordinate customer protection and communications.
+
+### Advisories and CVEs
+
+Where appropriate, IMTF will publish a security advisory describing the affected products and versions, the potential impact, and available fixes or mitigation steps. We will coordinate CVE assignment and publication with the relevant parties when applicable.
+
+With the reporter’s consent, we will acknowledge their contribution in the advisory.
+
+### Responsible research
+
+Please conduct research in a way that avoids service disruption, damage, unauthorized access to data, or harm to customers and other users. If you encounter sensitive data, stop testing and notify IMTF promptly. Testing involving customer or third-party systems requires authorization from the system owner.
+
+Thank you for helping keep IMTF products, services, and customers secure.
